@@ -1,5 +1,5 @@
 <?php
-// auteur: Vul hier je naam in
+// auteur: Yusuf Simsek
 // functie: configuratiebestand
 
 define("DATABASE", "bieren");
@@ -8,5 +8,6 @@ define("USERNAME", "root");
 define("PASSWORD", "");
 
 define("CRUD_TABLE", "brouwer");
+
 
 ?>
