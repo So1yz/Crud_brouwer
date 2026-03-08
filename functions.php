@@ -1,5 +1,5 @@
 <?php
-// auteur: Vul hier je naam in
+// auteur: Yusuf Simsek
 // functie: algemene functies tbv hergebruik
 
 include_once "config.php";
@@ -203,5 +203,6 @@ function deleteRecord($id){
     }
     return $retVal;
 }
+
 
 ?>
