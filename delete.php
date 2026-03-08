@@ -1,5 +1,5 @@
 <?php
-// auteur: Vul hier je naam in
+// auteur : Yusuf Simsek
 // functie: verwijder een bier op basis van de id
 include 'functions.php';
 
@@ -15,4 +15,5 @@ if(isset($_GET['id'])){
     }
 }
 ?>
+
 
