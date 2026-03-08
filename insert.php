@@ -1,6 +1,6 @@
 <?php
-    // functie: formulier en database insert fiets
-    // auteur: Vul hier je naam in
+    // functie: formulier en database insert brouwer
+    // auteur: Yusuf
 
     echo "<h1>Insert Brouwer</h1>";
 
@@ -37,3 +37,4 @@
         <a href='index.php'>Home</a>
     </body>
 </html>
+
